@@ -1,3 +1,4 @@
+// Hosting 
 var a;
 //Output: undefined 
 console.log(a);

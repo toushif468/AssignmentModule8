@@ -1,3 +1,4 @@
+// Rest Parameter 
 const sumFunction = (...numbers) => {
     return numbers.reduce((total, current) => total + current, 0);
 }
